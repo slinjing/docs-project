@@ -131,10 +131,10 @@ export default hopeTheme({
 
     // 搜索
     // plugin-docsearch
-    docsearch: {
-      // 你的选项
-      // appId, apiKey 和 indexName 是必填的
-    },
+    // docsearch: {
+    //   // 你的选项
+    //   // appId, apiKey 和 indexName 是必填的
+    // },
 
     // plugin-slimsearch
     slimsearch: true,  
