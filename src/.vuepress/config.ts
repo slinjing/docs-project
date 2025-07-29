@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/docs-project/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "主页",
+  description: "",
 
   theme,
 
