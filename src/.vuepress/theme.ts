@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://github.com/slinjing",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/fluent-color--library-20.svg",
 
   repo: "slinjing/docs-project",
 
