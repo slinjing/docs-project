@@ -9,8 +9,8 @@ bgImage: ""
 bgImageDark: ""
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: 文档
+tagline: slinjing 的文档库。
 features:
   - title: Kubernetes
     icon: logos:kubernetes
