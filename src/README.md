@@ -17,9 +17,9 @@ features:
     details: 容器编排平台，自动化部署、扩展和管理容器化应用，保障高可用。
     link: /zh/guide/feature/comment.html
 
-  - title: Docker
-    icon: material-icon-theme:docker
-    details: 轻量级容器技术，打包应用及依赖，实现跨环境一致运行，简化部署与扩展。
+  - title: Prometheus
+    icon: devicon:prometheus
+    details: 开源监控系统，收集并存储时序数据，支持灵活查询与告警，广泛用于云原生环境。
     link: /zh/guide/feature/search.html
 
 # highlights:
