@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: 使用 theme-hope 主题运行 vuepress 项目
+title: 快速使用 theme-hope
 ---
 记录使用 theme-hope 主题运行 vuepress 项目。
 

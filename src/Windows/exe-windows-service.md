@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: 将 exe 程序做成 Windows 服务
+title: Windows 服务制作
 ---
 记录 exe 程序做成 Windows 服务过程。
 
