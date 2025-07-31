@@ -8,7 +8,7 @@ export default navbar([
   },
   {
     text: "Windows",
-    link: "/Windows/README.md",
+    link: "/Windows/",
     // icon: "material-icon-theme:docker",
   },
 ]);
