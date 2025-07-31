@@ -13,12 +13,12 @@ heroText: 文档
 tagline: slinjing 的文档库。
 features:
   - title: Kubernetes
-    icon: logos:kubernetes
+    icon: /k8s.svg
     details: 容器编排平台，自动化部署、扩展和管理容器化应用，保障高可用。
     link: /zh/guide/feature/comment.html
 
   - title: Prometheus
-    icon: devicon:prometheus
+    icon: /devicon--prometheus.svg
     details: 开源监控系统，收集并存储时序数据，支持灵活查询与告警，广泛用于云原生环境。
     link: /zh/guide/feature/search.html
 
