@@ -3,11 +3,11 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   {
     text: "Docker",
-    link: "/Docker/README.md",
+    link: "/Docker/",
   },
   {
-    text: "Windows",
-    link: "/Windows/",
+    text: "更多",
+    link: "/More/",
   },
   {
     text: "博客",
